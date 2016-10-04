@@ -7,5 +7,5 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 See `complete` branch for an example.
 
 > Too young too simple, sometimes naive. 
-<br>
-Read more at: http://www.nytimes.com/2000/10/29/world/leader-of-china-angrily-chastises-hong-kong-media.html?_r=0
+> same 
+break
