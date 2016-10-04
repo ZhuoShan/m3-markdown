@@ -6,6 +6,7 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 
 See `complete` branch for an example.
 
-> Too young too simple, sometimes naive. <
+> Too young too simple, sometimes naive. 
+
 same 
 break
