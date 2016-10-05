@@ -11,6 +11,6 @@ A _nested list_ of information about the command (i.e., things that it does, or 
 See `complete` branch for answers.
 
 #mkdir
-'mkdir test' is able to make a new directory
+`mkdir test` is able to make a new directory
 
 
